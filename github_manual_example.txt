@@ -1,0 +1,1 @@
+This is a test of the git commit function. If successful, this should be viewable on GitHub.
