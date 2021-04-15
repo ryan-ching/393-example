@@ -1,1 +1,4 @@
 This is a test of the git commit function. If successful, this should be viewable on GitHub.
+
+This line is a change made on the remote repository.
+This will be pulled into the local repository for the purpose of the example. 
